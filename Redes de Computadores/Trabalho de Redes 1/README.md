@@ -10,15 +10,13 @@ Um repositório do github com todos os arquivos acima.
 O funcionamento do Código, mostrando todo o processamento de conexão, execução da função principal do sistema e seu encerramento.
 
 # Implementação do socket
-Para o desenvolvimento do socket deve-se utilizar a linguagem C ou C++, sem o uso de bibliotecas
-externas.
-Para isso, deve ser implementado um socket, que define um mecanismo de troca de dados
-entre dois ou mais processos distintos, podendo estes estar em execução na mesma máquina ou
-em máquinas diferentes, porém ligadas através da rede. Uma vez estabelecida a ligação entre dois
-processos, eles devem poder enviar e receber mensagens um do outro.
+Para o desenvolvimento do socket deve-se utilizar a linguagem C ou C++, sem o uso de bibliotecas externas.
+Para isso, deve ser implementado um socket, que define um mecanismo de troca de dados entre dois ou mais processos distintos, podendo estes estar em execução na mesma máquina ou em máquinas diferentes, porém ligadas através da rede. Uma vez estabelecida a ligação entre dois processos, eles devem poder enviar e receber mensagens um do outro.
 
 O uso correto do tipo de socket seja TCP ou UDP bem como a correta implementação de todas as funcionalidades do socket, valerá 5 pontos.
 
 # Criatividade da aplicação
 
 A finalidade da aplicação bem como outras funcionalidade do aplicativo valerá 3 pontos. Ou seja, espera-se que o aplicativo lide com várias conexões simultâneas através de um gerenciamento de Threads. Exemplos de aplicativos, um terminar remoto acessado por vários usuários, um escalonador de processos remotos, entre outros use a criatividade.
+
+Serão considerados dois pontos 2 ponto por comentários, indentação.
